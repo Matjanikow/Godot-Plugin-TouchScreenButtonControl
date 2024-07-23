@@ -10,7 +10,7 @@
 
 
 <h2>Descripción</h2>
-<p>Control Touchscreen Button Plugin es un requiere Godot 4. Proporciona un nodo de botón táctil identico al <a href="https://docs.godotengine.org/en/stable/classes/class_touchscreenbutton.html">TouchScreenButton2D</a> nativo de Godot, pero diseñado para trabajar en la jerarquía de nodos <code>Control</code> en vez de <code>Node2D</code>. Este nodo es ideal para interfaces de usuario y HUDs en juegos móviles.</p>
+<p>Control Touchscreen Button Plugin requiere Godot 4. Proporciona un nodo de botón táctil identico al <a href="https://docs.godotengine.org/en/stable/classes/class_touchscreenbutton.html">TouchScreenButton2D</a> nativo de Godot, pero diseñado para trabajar en la jerarquía de nodos <code>Control</code> en vez de <code>Node2D</code>. Este nodo es ideal para interfaces de usuario y HUDs en juegos móviles.</p>
 
 <h2>Características</h2>
 <ul>
