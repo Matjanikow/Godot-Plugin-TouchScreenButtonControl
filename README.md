@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<h1>Control Touchscreen Button Plugin</h1>
+<h1>Godot Plugin: Control Touchscreen Button Plugin</h1>
 <img src="https://github.com/Matjanikow/TouchScreenButtonControl/blob/master/addons/touchscreenbuttoncontrol/icon.svg" alt="Plugin Icon" style="width:100px;height:100px;">
 
 <h2>Description</h2>
