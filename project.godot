@@ -11,12 +11,13 @@ config_version=5
 [application]
 
 config/name="Touch Screen Control Plugin"
-config/features=PackedStringArray("4.2", "GL Compatibility")
-config/icon="res://icon.svg"
+config/features=PackedStringArray("4.3", "GL Compatibility")
+config/icon="res://addons/touchscreenbuttoncontrol/icon.svg"
+config/tags=PackedStringArray("matata")
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/touchscreenbuttoncontrol/plugin.cfg")
+enabled=PackedStringArray()
 
 [rendering]
 
